@@ -1,0 +1,13 @@
+.adminbuttons {
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #77aabb;
+  font-size: 8px;
+  padding: 2px;
+  color: white;
+  opacity: 0.8;
+  width: 10%;
+}
+.adminbuttons :hover {
+  opacity: 1;
+}
